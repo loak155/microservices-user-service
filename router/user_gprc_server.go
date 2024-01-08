@@ -3,7 +3,7 @@ package router
 import (
 	"context"
 
-	"github.com/loak155/microservices-proto/proto/pb"
+	"github.com/loak155/microservices-proto/pb"
 	"github.com/loak155/microservices-user-service/domain"
 	"github.com/loak155/microservices-user-service/usecase"
 
